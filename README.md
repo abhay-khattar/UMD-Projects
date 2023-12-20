@@ -31,4 +31,11 @@ The Masked DJ has a small office team who perform the office needs for The Maske
 #### Task - 
 Write up a professional looking report document how you moved through the environment to solve this final as well as recommendations for The Masked DJ to secure their IT environment. This will test your ability to enumerate, exploit, pivot, use password attacks, and use post exploitation tools to solve it. 
 
+## ENPM 687 - Digital Forensics
+*This project was completed for the ENPM687 - Digital Forensics Final*
+
+- Conducted forensic analysis of 2 hard disk images, and examined suspicious files in a sandbox environment using Ghidra to understand their behavior
+- Utilized Autopsy for image analysis and Wireshark for in-depth network traffic analysis and packet capture
+
+
 
